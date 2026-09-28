@@ -18,6 +18,10 @@ Solo indie developer from France 🇫🇷. I build games and AI companions that 
 
 - 📣 News and updates: **[Jeremstyke channel](https://t.me/jeremstyke)**
 
+## 🛠️ Also by me
+
+[CleanTab](https://getcleantab.com) (browser cleaner) · [PurgeCore](https://github.com/jeremstyke/purgecore) (Windows PC cleaner) · [My HTML5 games on GamePix](https://linktr.ee/jeremstykegames)
+
 ---
 
 ⭐ Built with Telegram Mini Apps, Claude AI, Supabase and Railway.
