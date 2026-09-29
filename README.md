@@ -16,6 +16,7 @@ Solo indie developer from France 🇫🇷. I build games and AI companions that 
 
 ## 📢 Follow me
 
+- 👥 Hang out with ChatPal and people from all over the world: **[ChatPal Hangout](https://t.me/chatpal_hangout)**
 - 📣 News and updates: **[Jeremstyke channel](https://t.me/jeremstyke)**
 
 ## 🛠️ Also by me
