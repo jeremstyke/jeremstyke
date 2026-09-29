@@ -10,13 +10,12 @@ Solo indie developer from France 🇫🇷. I build games and AI companions that 
 👉 **[Play Life Sim](https://t.me/LsimgameBot?start=src_github)** &nbsp; 🌐 [Website](https://jeremstyke.github.io/lifesim/) &nbsp; 📦 [Repo](https://github.com/jeremstyke/lifesim)
 
 ### 🤖 ChatPal
-**Your AI best friend on Telegram.** Always there to chat, remembers what matters to you, speaks your language. Add it to your group or channel for a daily quiz and topic of the day.
+**Your AI best friend on Telegram.** Always there to chat, remembers what matters to you, speaks your language.
 
 👉 **[Chat with ChatPal](https://t.me/mybestfriend_ai_en_bot?start=src_github)** &nbsp; 🌐 [Website](https://jeremstyke.github.io/chatpal/) &nbsp; 📦 [Repo](https://github.com/jeremstyke/chatpal)
 
 ## 📢 Follow me
 
-- 👥 Hang out with ChatPal and people from all over the world: **[ChatPal Hangout](https://t.me/chatpal_hangout)**
 - 📣 News and updates: **[Jeremstyke channel](https://t.me/jeremstyke)**
 
 ## 🛠️ Also by me
