@@ -14,6 +14,11 @@ Solo indie developer from France 🇫🇷. I build games and AI companions that 
 
 👉 **[Chat with ChatPal](https://t.me/mybestfriend_ai_en_bot?start=src_github)** &nbsp; 🌐 [Website](https://jeremstyke.github.io/chatpal/) &nbsp; 📦 [Repo](https://github.com/jeremstyke/chatpal)
 
+### ⚽ Daily Score
+**One big football match a day: guess the score.** Exact score = 3 points, climb the world and country rankings, and play private leagues with your friends. Free, 9 languages, no betting.
+
+👉 **[Play Daily Score](https://t.me/DailyScorefootbot?start=src_github)** &nbsp; 🌐 [Website](https://dailyscoreapp.com/en/) &nbsp; 📅 [Prediction of the day](https://dailyscoreapp.com/en/prediction-of-the-day/)
+
 ## 📢 Follow me
 
 - 📣 News and updates: **[Jeremstyke channel](https://t.me/jeremstyke)**
