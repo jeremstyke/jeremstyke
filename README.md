@@ -17,7 +17,7 @@ Solo indie developer from France 🇫🇷. I build games and AI companions that 
 ### ⚽ Daily Score
 **One big football match a day: guess the score.** Exact score = 3 points, climb the world and country rankings, and play private leagues with your friends. Free, 9 languages, no betting.
 
-👉 **[Play Daily Score](https://t.me/DailyScorefootbot?start=src_github)** &nbsp; 🌐 [Website](https://dailyscoreapp.com/en/) &nbsp; 📅 [Prediction of the day](https://dailyscoreapp.com/en/prediction-of-the-day/)
+👉 **[Play Daily Score](https://t.me/DailyScorefootbot?start=src_github)** &nbsp; 🌐 [Website](https://dailyscoreapp.com/en/) &nbsp; 📅 [Prediction of the day](https://dailyscoreapp.com/en/prediction-of-the-day/) &nbsp; 𝕏 [@dailyscoreapp](https://x.com/dailyscoreapp)
 
 ## 📢 Follow me
 
