@@ -14,7 +14,7 @@ Solo indie developer from France 🇫🇷. I build free apps and games that live
 
 👉 **[Play Meme Coin Tycoon](https://t.me/Memecointycoonbot?startapp=src_github)**
 
-👛 One TON wallet for both apps: all your earnings are paid together every Monday.
+👛 One TON wallet for both apps, each app pays separately every Monday from $0.10.
 
 ## ⚽ Also: Daily Score
 
