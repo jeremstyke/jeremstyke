@@ -1,27 +1,32 @@
 # Hi, I'm Jeremstyke 👋
 
-Solo indie developer from France 🇫🇷. I build games and AI companions that live inside **Telegram**.
+Solo indie developer from France 🇫🇷. I build free apps and games that live inside **Telegram**, where you can earn real TON.
 
-## 🎮 My Telegram apps
+## 💎 Earn by Jeremstyke
 
-### 🎂 Life Sim
-**Live a whole life in a few minutes.** Grow up, study, fall in love, build a career or a criminal empire. Reach your life goals, face rare events and discover the title your life deserves.
+**Tap the diamond, get paid in real TON.** Tap every day, climb the weekly contest, get +10% on everything your friends earn, and a bonus for following my channel. Paid every Monday to your TON wallet. Free, no deposit.
 
-👉 **[Play Life Sim](https://t.me/LsimgameBot?start=src_github)** &nbsp; 🌐 [Website](https://jeremstyke.github.io/lifesim/) &nbsp; 📦 [Repo](https://github.com/jeremstyke/lifesim)
+👉 **[Tap the diamond](https://t.me/earnbyjeremstykebot?startapp=tap_github)**
 
-### 🤖 ChatPal
-**Your AI best friend on Telegram.** Always there to chat, remembers what matters to you, speaks your language.
+## 🪙 Meme Coin Tycoon
 
-👉 **[Chat with ChatPal](https://t.me/mybestfriend_ai_en_bot?start=src_github)** &nbsp; 🌐 [Website](https://jeremstyke.github.io/chatpal/) &nbsp; 📦 [Repo](https://github.com/jeremstyke/chatpal)
+**Launch your own memecoin and become the #1 tycoon.** Create a coin, pump it, trade the others, mine and stake BTC, ETH and TON at live prices. The trading cash is virtual, and you earn real TON for every friend who really plays.
 
-### ⚽ Daily Score
-**One big football match a day: guess the score.** Exact score = 3 points, climb the world and country rankings, and play private leagues with your friends. Free, 9 languages, no betting.
+👉 **[Play Meme Coin Tycoon](https://t.me/Memecointycoonbot?startapp=src_github)**
 
-👉 **[Play Daily Score](https://t.me/DailyScorefootbot?start=src_github)** &nbsp; 🌐 [Website](https://dailyscoreapp.com/en/) &nbsp; 📅 [Prediction of the day](https://dailyscoreapp.com/en/prediction-of-the-day/) &nbsp; 𝕏 [@dailyscoreapp](https://x.com/dailyscoreapp)
+👛 One TON wallet for both apps: all your earnings are paid together every Monday.
+
+## ⚽ Also: Daily Score
+
+One big football match a day: guess the score, climb the rankings, play private leagues with friends. Free, 9 languages, no betting.
+
+👉 [Play Daily Score](https://t.me/DailyScorefootbot?start=src_github) · 🌐 [dailyscoreapp.com](https://dailyscoreapp.com/en/)
 
 ## 📢 Follow me
 
-- 📣 News and updates: **[Jeremstyke channel](https://t.me/jeremstyke)**
+- 💰 Make money on Telegram: **[Jeremstyke channel](https://t.me/jeremstyke)**
+- 🪙 Meme Coin Tycoon news: **[@memecointycoon](https://t.me/memecointycoon)**
+- ✉️ Contact: [message me on my channel](https://t.me/jeremstyke?direct)
 
 ## 🛠️ Also by me
 
