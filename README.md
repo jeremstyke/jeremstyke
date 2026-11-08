@@ -16,11 +16,11 @@ Solo indie developer from France 🇫🇷. I build free apps and games that live
 
 👛 One TON wallet for both apps, each app pays separately every Monday from $0.10.
 
-## ⚽ Also: Daily Score
+## ⚽ AI Football Predictor
 
-One big football match a day: guess the score, climb the rankings, play private leagues with friends. Free, 9 languages, no betting.
+The win probability of every football match in 25+ competitions, checked against the real results: predicted league tables, team pages, live scores and a daily AI recap. Free, English and French.
 
-👉 [Play Daily Score](https://t.me/DailyScorefootbot?start=src_github) · 🌐 [dailyscoreapp.com](https://dailyscoreapp.com/en/)
+👉 🌐 [aifootpredictor.com](https://aifootpredictor.com/?src=github_profile) · ✈️ [Telegram mini app](https://t.me/ai_football_predictorbot/app?startapp=src_github)
 
 ## 📢 Follow me
 
